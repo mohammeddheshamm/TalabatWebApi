@@ -1,0 +1,15 @@
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\bin\Debug\net5.0\Talabat.Service.deps.json
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\bin\Debug\net5.0\Talabat.Service.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\bin\Debug\net5.0\Talabat.Service.pdb
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.AssemblyInfo.cs
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\refint\Talabat.Service.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.pdb
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\ref\Talabat.Service.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\bin\Debug\net5.0\Talabat.Core.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\bin\Debug\net5.0\Talabat.Core.pdb
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Service\obj\Debug\net5.0\Talabat.Service.csproj.CopyComplete

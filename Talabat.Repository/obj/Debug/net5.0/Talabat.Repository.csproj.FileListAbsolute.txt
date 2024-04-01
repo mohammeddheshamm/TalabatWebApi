@@ -1,0 +1,15 @@
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.deps.json
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\bin\Debug\net5.0\Talabat.Repository.pdb
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\bin\Debug\net5.0\Talabat.Core.pdb
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.AssemblyReference.cache
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfoInputs.cache
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.AssemblyInfo.cs
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.csproj.CopyComplete
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\refint\Talabat.Repository.dll
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\Talabat.Repository.pdb
+E:\TAAZZ\ASP.NET\Eng Ahmed Nasr\08 ASP.NET Web APIs\WebAPISolution\Talabat.Repository\obj\Debug\net5.0\ref\Talabat.Repository.dll
